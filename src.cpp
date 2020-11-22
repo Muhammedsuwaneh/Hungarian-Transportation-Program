@@ -1,8 +1,10 @@
-/* Munkres Algorithm Implementation C++ */
-/* Code written by Muhammed Suwaneh ESOGU */
-/* Written May 2020 */
-
-
+/*
+*
+*@author - Muhammed Suwaneh
+*@ESOGU Department of Computer Engineering
+*
+*
+*/
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
